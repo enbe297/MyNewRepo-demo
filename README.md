@@ -1,3 +1,5 @@
 # MyNewRepo-demo
+
 My first repo.
-Author - Nihar
+<br>
+Author - Nihar (Git learning)
